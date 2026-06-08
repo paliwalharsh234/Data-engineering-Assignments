@@ -1,0 +1,23 @@
+1. Top Customers (The VIPs)
+
+Insight: Your top few customers drive heavily disproportionate revenue. For example, your #1 customer (Sean Miller) spent over $25,000, which is vastly higher than the average buyer.
+
+Action: Protect this revenue. Assign dedicated account managers to the top 10 buyers and enroll them in a VIP loyalty tier with bulk-discount perks to ensure they don't jump to a competitor.
+
+2. Low-Value Customers (The Profit Drainers)
+
+Insight: You have a segment of buyers whose lifetime spend is under $20 (some as low as $4.83).
+
+Action: The operational cost to process, pick, pack, and ship these tiny orders likely erodes all profit. Implement a minimum cart value for free shipping, or group small accessories into mandatory bundles.
+
+3. Single-Order Customers (The Lost Whales)
+
+Insight: Several customers made massive single purchases (over $1,000 in a single checkout) but never returned to the store again.
+
+Action: This is a major missed opportunity. Set up an automated retargeting campaign (e.g., a "We Miss You" email with a 15% coupon) triggered 60 days after a customer's first high-value purchase to turn them into repeat buyers.
+
+4. Above-Average Sales (The Revenue Ceiling)
+
+Insight: The company's average line-item sale is roughly $230. However, your absolute highest transactions ($10,000 to $22,000+) are completely dominated by heavy B2B Technology (e.g., Canon Copiers, Cisco TelePresence systems).
+
+Action: While office supplies provide steady volume, heavy tech hardware drives the massive revenue spikes. Align your sales team to actively pitch enterprise-level hardware to your "Corporate" segment clients.
