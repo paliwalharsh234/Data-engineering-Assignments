@@ -1,0 +1,28 @@
+Project Summary: Azure Data Pipeline Implementation
+Objective:
+To design, deploy, and execute an end-to-end cloud data integration pipeline using Microsoft Azure services. The project demonstrates core cloud fundamentals, including resource provisioning, secure identity management, and automated data orchestration.
+
+Architecture & Components:
+
+Storage: Azure Blob Storage was used to simulate a data lake architecture, utilizing a raw-data container for ingestion and a processed-data container for the final output.
+
+Orchestration: Azure Data Factory (ADF) served as the cloud-based ETL (Extract, Transform, Load) integration service.
+
+Security: Azure Identity and Access Management (IAM) was configured with Role-Based Access Control (RBAC) to securely authorize data movement between the storage account and ADF.
+
+Dataset: A local business dataset (superstore_raw(in).csv) consisting of 9,994 rows and 21 columns.
+
+Implementation Workflow:
+
+Provisioned a dedicated Azure Resource Group and standard Storage Account.
+
+Uploaded the raw CSV dataset into the source Blob container.
+
+Configured Linked Services and Datasets within ADF to establish secure connections to both source and destination storage.
+
+Developed an automated pipeline featuring a Get Metadata activity for pre-flight validation (ensuring the source file physically exists before processing).
+
+Implemented a Copy Data activity, triggered sequentially after validation, to extract the data and load it into the destination container.
+
+Outcome:
+The pipeline was successfully debugged and executed. All 9,994 rows of the Superstore dataset were validated, mapped, and transferred from the source to the destination container with zero data loss or truncation, successfully demonstrating a fully functional, automated cloud data pipeline.
