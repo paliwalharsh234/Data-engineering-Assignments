@@ -1,0 +1,7 @@
+user_id,transaction_date,region,product_category,sale_amount,status,city,age,subscription,raw_timestamp,email,username,price,store_id
+1,2023-10-01,West,Electronics,150.0,Unknown,New York,25,Premium,2023-10-01 10:00:00,test@email.com,user1,150.0,101
+2,2023-10-01,East,Clothing,50.0,Active,Boston,35,Basic,2023-10-01 11:00:00,,user2,50.0,102
+3,2023-10-02,West,Electronics,200.0,Active,New York,19,Premium,2023-10-02 09:30:00,user3@email.com,"",,101
+1,2023-10-01,West,Electronics,150.0,Unknown,New York,25,Premium,2023-10-01 10:00:00,test@email.com,user1,150.0,101
+4,2023-10-03,South,Home,120.0,Inactive,Chicago,40,Premium,2023-10-03 14:15:00,user4@email.com,user4,120.0,103
+5,2023-10-04,West,Clothing,80.0,Active,New York,22,Premium,2023-10-04 16:20:00,user5@email.com,user5,80.0,102
