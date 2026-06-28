@@ -1,0 +1,4 @@
+product_id,category,price,old_name,status,amount,base_price,user_id,region,priority
+1,Electronics,1200.50,Laptop,Completed,1500,1000.0,101,North,High
+3,Electronics,200.00,Headphones,Completed,1100,180.0,102,East,High
+4,Clothing,50.00,Shirt,Shipped,50,45.0,103,West,Medium
